@@ -2,8 +2,8 @@
 #include <WiFiClient.h>
 #include <WebServer.h>
 
-const char* login = "brisa-1776554";
-const char* password =  "5qabth84";
+const char* login = "******";
+const char* password =  "******";
 
 WiFiServer servidor (80);
 
