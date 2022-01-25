@@ -1,2 +1,2 @@
-# ESP32-Simula-es
+# ESP32-Simulacoes
 Códigos para testes em ESP32.
