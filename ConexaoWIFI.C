@@ -1,7 +1,7 @@
 #include <WiFi.h>;
 
-const char* login = "brisa-1776554";
-const char* password =  "5qabth84";
+const char* login = "******";
+const char* password =  "******";
 
 void setup() {
   Serial.begin(9600);
