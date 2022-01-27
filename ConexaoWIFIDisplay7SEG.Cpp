@@ -1,3 +1,8 @@
+// Albertho Costa
+// 17/10/2021
+// Código para comunicação entre ESP32 e Display 7 Segmentos através da conexão WIFI. Para essa comunicação utilizei a plataforma MIT APP INVENTOR, onde
+// foi criado um apk para envio e recebimento de informações.
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
