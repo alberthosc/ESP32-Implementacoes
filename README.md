@@ -1,2 +1,2 @@
-# ESP32-Simulações
-Códigos de simulações em ESP32.
+# Implementações em ESP32 IDE e IDF
+Implementações utilizando os periféricos presentes nos chips da Espressif ESP32.
